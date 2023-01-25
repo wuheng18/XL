@@ -2,7 +2,7 @@
     "wallpaper": "http://localhost:5705/pics",
     "dr_count": 118,
     "mode": 0,
-    "spider": "http://localhost:5705/files/custom_spider.jar",
+    "spider": "https://gitcode.net/qq_32394351/drpy/-/raw/master/txt/jar/spiders.zip",
     "drives": [
         {
             "name": "🦀9T(Adult)",
